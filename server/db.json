@@ -1,0 +1,28 @@
+{
+  "badges": [
+    {
+      "firstName": "Fabian",
+      "lastName": "Penagos",
+      "email": "lilrabb13@gmail.com",
+      "jobTitle": "Dev Fronted",
+      "twitter": "J_Pis",
+      "id": 1
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Montoya",
+      "email": "felipe2.000@hotmail.com",
+      "jobTitle": "Asesor de imagen y diseño",
+      "twitter": "DanielMontolla",
+      "id": 2
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Penagos",
+      "email": "laurfabis@hotmail.com",
+      "jobTitle": "Estudent",
+      "twitter": "Lauris",
+      "id": 3
+    }
+  ]
+}
